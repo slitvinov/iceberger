@@ -5,4 +5,4 @@ $ git clone https://github.com/slitvinov/iceberger.git
 $ cd iceberger
 </pre>
 
-open <a href="/slitvinov/iceberger/blob/main/index.html">index.html</a> in a web browser.
+open <a href="blob/main/index.html">index.html</a> in a web browser.
